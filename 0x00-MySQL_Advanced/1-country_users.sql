@@ -1,4 +1,4 @@
--- Creates a table with unique users. By Okpako Michael
+-- Creates a table with unique users.i 
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
